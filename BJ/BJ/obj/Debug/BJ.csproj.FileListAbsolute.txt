@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\BJ\BJ\bin\Debug\BJ.exe.config
+\\mac\home\documents\visual studio 2015\Projects\BJ\BJ\bin\Debug\BJ.exe
+\\mac\home\documents\visual studio 2015\Projects\BJ\BJ\bin\Debug\BJ.pdb
+\\mac\home\documents\visual studio 2015\Projects\BJ\BJ\obj\Debug\BJ.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BJ\BJ\obj\Debug\BJ.exe
+\\mac\home\documents\visual studio 2015\Projects\BJ\BJ\obj\Debug\BJ.pdb

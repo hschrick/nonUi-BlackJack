@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\BlackJackDebug\BlackJackDebug\bin\Debug\BlackJackDebug.exe.config
+\\mac\home\documents\visual studio 2015\Projects\BlackJackDebug\BlackJackDebug\bin\Debug\BlackJackDebug.exe
+\\mac\home\documents\visual studio 2015\Projects\BlackJackDebug\BlackJackDebug\bin\Debug\BlackJackDebug.pdb
+\\mac\home\documents\visual studio 2015\Projects\BlackJackDebug\BlackJackDebug\obj\Debug\BlackJackDebug.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BlackJackDebug\BlackJackDebug\obj\Debug\BlackJackDebug.exe
+\\mac\home\documents\visual studio 2015\Projects\BlackJackDebug\BlackJackDebug\obj\Debug\BlackJackDebug.pdb
